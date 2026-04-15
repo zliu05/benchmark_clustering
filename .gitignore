@@ -1,0 +1,32 @@
+# Data files (large, downloaded)
+data/
+!data/.gitkeep
+
+# Benchmark results (regenerated)
+results/
+!results/.gitkeep
+
+# GVE-Leiden cloned repo
+gve-leiden/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
