@@ -19,9 +19,9 @@ We use publicly available scRNA-seq datasets at three scales:
 
 | Dataset | Cells | Source | Reference |
 |---|---|---|---|
-| PBMC 3k | ~2,700 | 10x Genomics | [Link](https://cf.10xgenomics.com/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz) |
-| PBMC 10k | ~11,769 | 10x Genomics (v3 chemistry) | [Link](https://cf.10xgenomics.com/samples/cell-exp/3.0.0/pbmc_10k_v3/pbmc_10k_v3_filtered_feature_bc_matrix.h5) |
-| Tabula Sapiens | ~483,152 | CZ CELLxGENE / Figshare | [Tabula Sapiens Consortium, Science 2022](https://doi.org/10.1126/science.abl4896) |
+| PBMC 3k | 2,638 | 10x Genomics | [Link](https://cf.10xgenomics.com/samples/cell/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz) |
+| PBMC 10k | 374,702 | 10x Genomics (v3 chemistry) | [Link](https://cf.10xgenomics.com/samples/cell-exp/3.0.0/pbmc_10k_v3/pbmc_10k_v3_filtered_feature_bc_matrix.h5) |
+| Tabula Sapiens | 100,000 | CZ CELLxGENE / Figshare | [Tabula Sapiens Consortium, Science 2022](https://doi.org/10.1126/science.abl4896) |
 
 ## Metrics Collected
 
